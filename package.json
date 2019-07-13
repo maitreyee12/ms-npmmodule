@@ -1,0 +1,23 @@
+{
+  "name": "com.mytests.moduletests",
+  "version": "1.0.0",
+  "description": "this is test for npm module creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maitreyee12/ms-npmmodule.git"
+  },
+  "keywords": [
+    "module",
+    "creation"
+  ],
+  "author": "maitreyee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maitreyee12/ms-npmmodule/issues"
+  },
+  "homepage": "https://github.com/maitreyee12/ms-npmmodule#readme"
+}
